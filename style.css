@@ -30,5 +30,5 @@ button {
   float: right;
 }
 #name, #email, #memberType, #paypal, #employer {
-  width: 50%;
+  width: 100%;
 }
