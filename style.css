@@ -29,6 +29,6 @@ textarea {
 button {
   float: right;
 }
-#name, #email, #memberType, #paypal, #employer {
+#name, #email, #memberType, #employer, #phone, #address1, #address2, #city, #state, #country, #paypal {
   width: 50%;
 }
